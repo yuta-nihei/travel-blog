@@ -222,3 +222,22 @@ main .text {
 #footer .item {
   width: 30%;
 }
+
+#footer .footer-title {
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+#footer .about-list {
+  margin: 20px 0;
+}
+
+#footer .about-list li {
+  margin-bottom: 5px;
+}
+
+#footer .about-list .arrow {
+  position: relative;
+  display: inline-block;
+}
